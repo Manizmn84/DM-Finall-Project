@@ -23,7 +23,7 @@ The application is developed in Python and uses PyQt for the user interface.
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Manizmn84/DM-Finall-Project.git
     ```
 2.  Navigate to the project directory:
     ```bash
